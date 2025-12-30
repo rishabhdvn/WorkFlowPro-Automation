@@ -1,0 +1,16 @@
+{
+  "admin_user": {
+    "email": "admin@company1.com",
+    "password": "securePassword123",
+    "tenant_id": "tenant_001"
+  },
+  "secondary_user": {
+    "email": "user@company2.com",
+    "password": "securePassword456",
+    "tenant_id": "tenant_002"
+  },
+  "urls": {
+    "base_url": "https://app.workflowpro.com",
+    "api_url": "https://api.workflowpro.com/api/v1"
+  }
+}
